@@ -1,1 +1,2 @@
 TOKEN = '7936377903:AAE9hSi-wWBjCewthonvbGDcIWZrxWydXMM'
+OMDB_API_KEY = '6e0c0d5e'
